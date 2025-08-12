@@ -1,1 +1,14 @@
-# 👋 ¡Hola! Soy Matías Bello  **Ingeniero en Informática** | **Full-Stack Developer** | **Especialista en Automatización de Procesos**  🚀 Desarrollador pragmático enfocado en la **automatización de procesos logísticos** y soluciones tecnológicas para diversos sectores productivos.  ## 🔧 Stack Tecnológico - **Frontend:** React, Angular, TypeScript, Ionic - **Backend:** Node.js, PHP, Python (Flask/FastAPI) - **Mobile:** Ionic, React Native, Capacitor - **Bases de Datos:** MySQL, PostgreSQL, Firebase - **DevOps:** Docker, Git, CI/CD  ## 📊 Proyectos Destacados - 🚛 **Sistema Integral de Gestión de Flota** - Proyecto final de ingeniería con GPS tracking y KPIs - 🤖 **TMS con Chatbot** - MVP escalable para gestión de transporte con IA - 📱 **App Universitaria ¿Te Llevo?** - Plataforma de viajes compartidos para DUOC UC - 📈 **Sistema Excel-PDF** - Automatización de reportes con Angular y Python  ## 🌎 Ubicación 📍 Concepción, Chile  ## 🤝 Conectemos [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil-linkedin)  --- *"Transformando ideas en soluciones tecnológicas eficientes"*
+# 👋 ¡Hola! Soy Matías Bello  
+**Ingeniero en Informática** | **Full-Stack Developer**  
+
+## 🚀 Sobre Mí  
+Desarrollador especializado en **automatización de procesos logísticos** con +3 años de experiencia creando soluciones tecnológicas escalables.  
+
+## 🔧 Stack Principal  
+```mermaid
+pie
+    title Tecnologías Frecuentes
+    "Frontend (React/Angular)" : 35
+    "Backend (Python/Node.js)" : 30
+    "Mobile (Ionic/React Native)" : 20
+    "Bases de Datos" : 15
