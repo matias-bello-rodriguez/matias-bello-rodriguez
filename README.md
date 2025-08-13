@@ -13,7 +13,7 @@ Me desempeño en roles **Full Stack**, **ciencia de datos** y **machine learning
 - Aplicaciones web y APIs desarrolladas con **JavaScript, Python, Java y PHP**  
 - Proyectos de **automatización y ciencia de datos** usando Pandas, OCR y Machine Learning  
 - Dashboards interactivos
-- Despliegues en la nube con **GCP** y configuraciones DevOps  
+- Despliegues en la nube con **GCP**
 
 ---
 
