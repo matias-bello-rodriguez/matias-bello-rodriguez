@@ -1,10 +1,13 @@
-# 👋 ¡Hola! Soy **Matías Bello**                    💻 [Portfolio](https://github.com/)  
-                                                              
+# 👋 ¡Hola! Soy **Matías Bello**  
+📂 [Portafolio](https://github.com/)
+
 **Desarrollador Full Stack | Automatización y Ciencia de Datos**  
 
+---
+
 ## 🚀 Sobre Mí  
-Ingeniero en Informática con casi **3 años de experiencia** diseñando e implementando **soluciones escalables** para optimizar y automatizar procesos **industriales(logística,construcción y sanitaria)**.  
-Me acomodo en roles **Full Stack**, **ciencia de datos** y **machine learning** para entregar productos eficientes, integrando análisis, visualización y automatización de información.  
+Ingeniero en Informática con casi **3 años de experiencia** diseñando e implementando **soluciones escalables** para optimizar y automatizar procesos **industriales** (logística, construcción y sanitaria).  
+Me desempeño en roles **Full Stack**, **ciencia de datos** y **machine learning**, entregando productos eficientes que integran análisis, visualización y automatización de información.  
 
 ---
 
@@ -30,5 +33,5 @@ Me acomodo en roles **Full Stack**, **ciencia de datos** y **machine learning** 
 ---
 
 ## 📬 Contacto  
-📧 **[ma.bellor@duocuc.cl]**  
+📧 **ma.bellor@duocuc.cl**  
 🔗 [LinkedIn](https://www.linkedin.com/in/mat%C3%ADas-bello-rodr%C3%ADguez-5b798323a/)  
