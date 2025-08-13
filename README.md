@@ -29,6 +29,6 @@ Combino desarrollo **Full Stack**, **ciencia de datos** y **machine learning** p
 ---
 
 ## 📬 Contacto  
-📧 **[tu-email@example.com]**  
-🔗 [LinkedIn](https://www.linkedin.com/)  
-💻 [GitHub](https://github.com/)  
+📧 **[ma.bellor@duocuc.cl]**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mat%C3%ADas-bello-rodr%C3%ADguez-5b798323a/)  
+💻 [Portfolio](https://github.com/)  
