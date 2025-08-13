@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy **Matías Bello**  
-**Ingeniero en Informática | Desarrollador Full Stack | Especialista en Automatización y Ciencia de Datos**  
+**Desarrollador Full Stack | Automatización y Ciencia de Datos**  
 
 ## 🚀 Sobre Mí  
 Ingeniero en Informática con más de **3 años de experiencia** diseñando e implementando **soluciones tecnológicas escalables** para optimizar y automatizar procesos, especialmente en el ámbito **logístico**.  
