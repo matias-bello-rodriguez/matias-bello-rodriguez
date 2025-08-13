@@ -12,7 +12,7 @@ Me desempeño en roles **Full Stack**, **ciencia de datos** y **machine learning
 💡 *En mi portafolio encontrarás:*  
 - Aplicaciones web y APIs desarrolladas con **JavaScript, Python, Java y PHP**  
 - Proyectos de **automatización y ciencia de datos** usando Pandas, OCR y Machine Learning  
-- Dashboards interactivos en **Power BI** y **Google Data Studio**  
+- Dashboards interactivos
 - Despliegues en la nube con **GCP** y configuraciones DevOps  
 
 ---
