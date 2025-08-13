@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy **Matías Bello**  
-📂 [Portafolio](https://github.com/)
+💼 **[Mira mi portafolio →](https://github.com/)** *(Proyectos, código y más)*  
 
 **Desarrollador Full Stack | Automatización y Ciencia de Datos**  
 
@@ -8,6 +8,12 @@
 ## 🚀 Sobre Mí  
 Ingeniero en Informática con casi **3 años de experiencia** diseñando e implementando **soluciones escalables** para optimizar y automatizar procesos **industriales** (logística, construcción y sanitaria).  
 Me desempeño en roles **Full Stack**, **ciencia de datos** y **machine learning**, entregando productos eficientes que integran análisis, visualización y automatización de información.  
+
+💡 *En mi portafolio encontrarás:*  
+- Aplicaciones web y APIs desarrolladas con **JavaScript, Python, Java y PHP**  
+- Proyectos de **automatización y ciencia de datos** usando Pandas, OCR y Machine Learning  
+- Dashboards interactivos en **Power BI** y **Google Data Studio**  
+- Despliegues en la nube con **GCP** y configuraciones DevOps  
 
 ---
 
